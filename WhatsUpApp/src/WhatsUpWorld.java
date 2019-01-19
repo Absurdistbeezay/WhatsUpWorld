@@ -2,9 +2,9 @@
 public class WhatsUpWorld {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("Whats up World?");
-
+		
+		String str = "Whats up World?";
+		int num1 = 1;
+		System.out.println(num1+". " + str);
 	}
-
 }
